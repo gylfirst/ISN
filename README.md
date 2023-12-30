@@ -25,7 +25,7 @@ python file.py
 ```
 
 # Auteur
-Gylfirst
+[Gylfirst](https://github.com/gylfirst)
 
 # Licence
 Ce projet est sous licence MIT.
